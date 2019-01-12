@@ -72,6 +72,13 @@
             "flag": "gb-wls",
             "live": true,
             "authors" : ["hiitsdan"]
+        },
+        {
+            "name": "Svenska",
+            "code": "sv",
+            "flag": "se",
+            "live": true,
+            "authors" : ["LordDrift", "RizkD3V"]
         }
     ]
 }
